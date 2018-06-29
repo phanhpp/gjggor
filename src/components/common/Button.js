@@ -19,7 +19,6 @@ const styles = {
         alignSelf: 'center',
         color: 'white',
         fontSize: 20,
-        fontWeight: 900,
         fontWeight: '600', 
         paddingTop: 5,
         paddingBottom: 5,
@@ -34,7 +33,7 @@ const styles = {
         marginRight: 25,
         shadowColor: '#000',
         shadowOffset: { width: 0, height: 2 },
-        shadowOpacity: 0.7,
+        shadowOpacity: 0.5,
        
 
     }
